@@ -1,5 +1,5 @@
 <!-- ===================== HEADER ===================== -->
-
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shashwat%20Mishra&fontSize=40&fontColor=00F7FF&animation=fadeIn)
 <h1 align="center">⚡ Shashwat Mishra</h1>
 <h3 align="center">AI Engineer in Progress | Building Real Systems | Future ML Architect</h3>
 
