@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=dexnova20&color=blueviolet" />
 </p>
 
 ---
@@ -105,7 +105,7 @@ Mindset: Discipline > Motivation
 ## 🌐 CONNECT
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:m.shashwat207@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail">
   </a>
 </p>
