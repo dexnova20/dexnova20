@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=180&section=header&text=SHASHWAT%20MISHRA&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=180&section=header&text=Shashwat%20Mishra&fontSize=42&fontColor=00F7FF&animation=twinkling"/>
 </p>
 <h1 align="center">⚡ Shashwat Mishra</h1>
 <h3 align="center">AI Engineer in Progress | Building Real Systems | Future ML Architect</h3>
