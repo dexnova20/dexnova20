@@ -61,7 +61,7 @@ Mindset: Discipline > Motivation
 `Python` `C++` `JavaScript`
 
 **Web**  
-`HTML` `CSS`
+`HTML` `CSS` 
 
 **AI & Data**  
 `NumPy` `Pandas` `Matplotlib`
@@ -108,4 +108,13 @@ Mindset: Discipline > Motivation
   <a href="mailto:m.shashwat207@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail">
   </a>
+  
+  <a href="https://www.linkedin.com/in/shashwat-mishra-718018362/">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin">
+  </a>
+  
+  <a href="https://www.instagram.com/shashwattt_mishraa/">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram">
+  </a>
+  
 </p>
