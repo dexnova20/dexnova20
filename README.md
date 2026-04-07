@@ -1,10 +1,14 @@
 <!-- ===================== HEADER ===================== -->
 
 <h1 align="center">⚡ Shashwat Mishra</h1>
-<h3 align="center">AI Engineer in Progress | Builder of Smart Systems | Future Tech Architect</h3>
+<h3 align="center">AI Engineer in Progress | Building Real Systems | Future ML Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+AI+Products;Building+Projects+that+Actually+Matter;CSE+Student+@+VIT+Bhopal;Learning+ML+%7C+DSA+%7C+System+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00F7FF&center=true&vCenter=true&width=650&lines=Turning+Ideas+into+AI+Systems;Building+Projects+That+Actually+Matter;CSE+Student+@+VIT+Bhopal;Learning+ML+%7C+DSA+%7C+System+Design" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet" />
 </p>
 
 ---
@@ -14,6 +18,94 @@
 ```yaml
 Name: Shashwat Mishra
 Role: AI/ML Developer (in training)
-Focus: Building real-world impactful projects
+Focus: Real-world AI systems & impactful projects
 Learning Mode: ACTIVE ⚡
+Current Path: ML → Deep Learning → Production Systems
 Mindset: Discipline > Motivation
+```
+
+---
+
+## ⚡ CURRENT OPERATIONS
+
+- 🧠 Learning Machine Learning fundamentals  
+- ⚙️ Practicing Data Structures & Algorithms (C++ + Python)  
+- 🚀 Building AI-based real-world projects  
+- 🛡️ Exploring Cybersecurity & system thinking  
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+### 🧬 AI Workout Recommendation System
+> Personalized fitness system powered by data & ML
+
+- Adaptive workout logic  
+- Progress tracking system  
+- Goal-based recommendations  
+
+---
+
+### 🛡️ Scam Detection System
+> AI model to detect fraud messages (India-focused 🇮🇳)
+
+- NLP-based classification  
+- Real-time prediction  
+- Trained on scam patterns  
+
+---
+
+## 🛠️ TECH STACK
+
+**Languages**  
+`Python` `C++` `JavaScript`
+
+**Web**  
+`HTML` `CSS`
+
+**AI & Data**  
+`NumPy` `Pandas` `Matplotlib`
+
+**Tools**  
+`Git` `GitHub` `VS Code`
+
+---
+
+## 📊 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🧭 ROADMAP
+
+- [x] Start programming journey  
+- [x] Enter AI/ML domain  
+- [ ] Build 5 production-level AI projects  
+- [ ] Participate in hackathons  
+- [ ] Secure internship  
+
+---
+
+## 🧠 CURRENTLY BUILDING
+
+> 🚧 Something powerful is under construction...
+
+---
+
+## ⚡ PHILOSOPHY
+
+> "I don’t just learn tech. I build things that solve problems."
+
+---
+
+## 🌐 CONNECT
+
+<p align="center">
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail">
+  </a>
+</p>
