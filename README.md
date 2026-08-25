@@ -1,23 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=180&section=header&text=Shashwat%20Mishra&fontSize=42&fontColor=00F7FF&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=180&section=header&text=Shashwat%20Mishra&fontSize=42&fontColor=00F7FF&animation=twinkling"/>
 </p>
 
 <h1 align="center">Shashwat Mishra</h1>
-
 <h3 align="center">Computer Science & AI Student | Applied AI/ML | Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Practical+AI+Systems;Machine+Learning+%7C+Intelligent+Systems;CSE+Student+at+VIT+Bhopal;From+Research+to+Real+World+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Practical+AI+Systems;Machine+Learning+%7C+NLP+%7C+Intelligent+Systems;CSE+Student+at+VIT+Bhopal;Learning+through+Projects+and+Research"/>
+</p>
+
+<p align="center">
+  <a href="mailto:m.shashwat207@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shashwat-mishra-718018362/"><img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/dexnova20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
-# Shashwat Mishra
 
-### Computer Science & AI Student | Applied AI/ML | Intelligent Systems
+## About Me
 
-Computer Science student at **VIT Bhopal** focused on building practical AI systems and exploring the intersection of machine learning, software engineering, and real-world applications.
+Computer Science student focused on building practical AI systems and solving real-world problems through machine learning and software engineering.
 
-Currently developing projects across **AI/ML, intelligent energy systems, NLP, and data-driven applications**, while strengthening my foundations in DSA, computer science, and system design.
+I enjoy taking ideas from **research → prototype → working system**, with interests spanning intelligent energy systems, NLP, and AI-driven applications.
 
 ---
 
@@ -25,120 +29,79 @@ Currently developing projects across **AI/ML, intelligent energy systems, NLP, a
 
 ### AI-Based Renewable Energy & EV Management System
 
-An intelligent energy management system focused on combining renewable energy generation with EV infrastructure.
+An intelligent energy management system integrating renewable energy with EV infrastructure.
 
-**Areas of work:**
+**Core Areas**
 - AI-assisted energy management
 - EV charging optimization
 - Renewable energy integration
 - Hybrid energy generation
-- System-level design and feasibility analysis
-- Engineering validation and energy-efficiency analysis
-
-**Objective:** Develop a technically validated system capable of improving energy utilization and supporting sustainable EV infrastructure.
+- System-level engineering & feasibility analysis
 
 ---
 
 ### AI-Based Scam Detection System
 
-An NLP-based system designed to identify potentially fraudulent messages with an India-focused approach.
+An NLP-powered system for detecting fraudulent messages in an India-focused context.
 
-**Areas of work:**
+**Core Areas**
 - Natural Language Processing
-- Text classification
-- Scam pattern detection
+- Text Classification
+- Scam Pattern Detection
 - Machine Learning
-- Real-time prediction
-
-**Objective:** Build an intelligent detection system capable of identifying suspicious communication patterns and assisting users in recognizing potential scams.
+- Real-time Prediction
 
 ---
 
 ### AI Workout Recommendation System
 
-A personalized recommendation system designed to generate workout suggestions based on user goals, progress and available data.
+A personalized recommendation system that generates adaptive workout plans based on user goals and progress.
 
-**Areas of work:**
-- Recommendation systems
-- User progress tracking
-- Data-driven personalization
+**Core Areas**
+- Recommendation Systems
+- Progress Tracking
+- Data-driven Personalization
 - Machine Learning
 
 ---
 
 ## Technical Skills
 
-### Languages
+**Languages**  
 `Python` `C++` `JavaScript`
 
-### AI & Data
-`Machine Learning` `NumPy` `Pandas` `Matplotlib`
+**AI / Machine Learning**  
+`Machine Learning` `NLP` `NumPy` `Pandas` `Matplotlib`
 
-### Web & Development
+**Development & Tools**  
 `HTML` `CSS` `Git` `GitHub` `VS Code`
 
-### Currently Exploring
-`Deep Learning` `Computer Vision` `NLP` `System Design` `AI Engineering`
+**Exploring**  
+`Deep Learning` `Computer Vision` `System Design` `AI Engineering`
 
----
+## Current Focus
 
-## What I'm Working On
-
-- Building practical AI/ML systems rather than isolated model experiments
-- Strengthening Data Structures & Algorithms with C++ and Python
-- Developing projects that combine AI with real-world engineering problems
-- Exploring AI-assisted energy management and sustainable technology
-- Preparing for hackathons and technical competitions
-- Exploring opportunities for AI/ML research and collaborative development
-
----
-
-## Learning Path
-
-**Computer Science Fundamentals**  
-→ **Data Structures & Algorithms**  
-→ **Machine Learning**  
-→ **Deep Learning**  
-→ **Intelligent Systems**  
-→ **Deployment & System Design**
-
-My goal is to develop the ability to take an idea from **problem definition → research → implementation → validation → deployable system**.
+- Building practical AI/ML systems
+- Strengthening Data Structures & Algorithms
+- Developing intelligent energy solutions
+- Exploring NLP and applied machine learning
+- Preparing for hackathons and research opportunities
 
 ---
 
 ## Areas of Interest
 
-- Artificial Intelligence
-- Machine Learning
-- Intelligent Energy Systems
-- Natural Language Processing
-- Computer Vision
-- AI for Sustainability
-- Software Engineering
-- System Design
-- Applied Research
+`Artificial Intelligence` • `Machine Learning` • `NLP` • `Computer Vision` • `Intelligent Energy Systems` • `AI for Sustainability` • `Software Engineering`
 
 ---
 
-## GitHub Statistics
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dexnova20&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dexnova20&theme=tokyonight&hide_border=true" height="165"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dexnova20&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dexnova20&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## Connect
-
 <p align="center">
-  <a href="mailto:m.shashwat207@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/shashwat-mishra-718018362/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/dexnova20">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=dexnova20&theme=tokyo-night&hide_border=true"/>
 </p>
